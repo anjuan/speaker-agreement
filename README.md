@@ -8,3 +8,4 @@ The terms and conditions in the contract have been cobbled together from a varie
 
 You'll need a LaTex client to modify and use this template. There are several open source multi-platform client options available as either desktop or online applications. I currently use [MacTeX](http://www.tug.org/mactex/).
 
+If you use MacteX, keep in mind that a number of other files will be created in your directory along with the rendered PDF file. You'll see files with the following extensions: .aux, .log, .gz.
