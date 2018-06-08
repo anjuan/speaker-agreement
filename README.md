@@ -6,5 +6,5 @@ This template is designed to be used for creating speaker agreements using LaTex
 
 The terms and conditions in the contract have been cobbled together from a variety of speaker agreements I have seen in the past. They are meant to provide sample content that you can modify to fit your needs. 
 
-You'll need a LaTex client to modify and use this template. There are several open source multi-platform client options available as either desktop or online applications. I currently use (MacTeX)[http://www.tug.org/mactex/].
+You'll need a LaTex client to modify and use this template. There are several open source multi-platform client options available as either desktop or online applications. I currently use [MacTeX](http://www.tug.org/mactex/).
 
