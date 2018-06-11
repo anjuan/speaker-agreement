@@ -4,7 +4,7 @@ I'm often asked how I structure the speaker agreements that formalize the contra
 
 ## Dynamic Varibles
 
-This template is designed to be used for creating speaker agreements using LaTex. It has dynamic variables that you can change based on the event informaton (e.g., event name, venue, session start time, etc.) and static content that will always be the same (e.g., your name, mailing address, etc.).
+This template is designed to be used for creating speaker agreements using LaTeX. It has dynamic variables that you can change based on the event informaton (e.g., event name, venue, session start time, etc.) and static content that will always be the same (e.g., your name, mailing address, etc.).
 
 ## Ready to Modify
 
@@ -16,6 +16,6 @@ You'll need to make sure that you bring the structure.tex file down to your loca
 
 ## LaTex Client
 
-You'll need a LaTex client to modify and use this template. There are several open source multi-platform client options available as either desktop or online applications. I currently use [MacTeX](http://www.tug.org/mactex/).
+You'll need a LaTeX client to modify and use this template. There are several open source multi-platform client options available as either desktop or online applications. I currently use [MacTeX](http://www.tug.org/mactex/).
 
 If you use MacTeX, keep in mind that a number of other files will be created in your directory along with the rendered PDF file. You'll see files with the following extensions: .aux, .log, and .gz.
