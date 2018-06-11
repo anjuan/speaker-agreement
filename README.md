@@ -2,6 +2,10 @@
 
 I'm often asked how I structure the speaker agreements that formalize the contract between event organizers and myself. This repository contains the LaTeX version of my standard speaker engagement agreement.
 
+## Attributional
+
+This template is based on a freelance work agreement orginally created by [Brandon Fryslie](https://github.com/brandon-fryslie) and extensively modified by Vel.
+
 ## Dynamic Variables
 
 This template is designed to be used for creating speaker agreements using LaTeX. It has dynamic variables that you can change based on the event informaton (e.g., event name, venue, session start time, etc.) and static content that will always be the same (e.g., your name, mailing address, etc.).
