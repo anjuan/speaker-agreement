@@ -18,6 +18,10 @@ The terms and conditions in the contract have been cobbled together from a varie
 
 You'll need to make sure that you bring the structure.tex file down to your local machine since it contains formatting that the template uses to improve its look.
 
+## Mac Users
+
+If you're using MacOS, edit the structure.tex file and uncomment the font settings for MacOS. Then, comment out the default font settings in the next block. This will improve the look of the rendered document, but you will have to change your LaTeX client to compile with XeLaTeX.
+
 ## LaTex Client
 
 You'll need a LaTeX client to modify and use this template. There are several open source multi-platform client options available as either desktop or online applications. I currently use [MacTeX](http://www.tug.org/mactex/).
