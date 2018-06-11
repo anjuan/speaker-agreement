@@ -4,7 +4,7 @@ I'm often asked how I structure the speaker agreements that formalize the contra
 
 ## Attribution
 
-This template is based on an agreement orginally created by [Brandon Fryslie](https://github.com/brandon-fryslie) and extensively modified by [Vel](http://www.vel.nz).
+This template is based on an agreement orginally created by [Brandon Fryslie](https://github.com/brandon-fryslie) and extensively modified by [Vel](http://www.vel.nz). I've kept a lot of the structure from Vel's LaTeX file, but I heavily modified the contents and added additonal variables.
 
 ## Dynamic Variables
 
