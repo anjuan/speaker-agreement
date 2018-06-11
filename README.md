@@ -4,7 +4,7 @@ I'm often asked how I structure the speaker agreements that formalize the contra
 
 ## Attribution
 
-This template is based on a freelance work agreement orginally created by [Brandon Fryslie](https://github.com/brandon-fryslie) and extensively modified by Vel.
+This template is based on a freelance work agreement orginally created by [Brandon Fryslie](https://github.com/brandon-fryslie) and extensively modified by [Vel](mailto:vel@latextemplates.com).
 
 ## Dynamic Variables
 
