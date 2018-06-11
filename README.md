@@ -2,7 +2,7 @@
 
 I'm often asked how I structure the speaker agreements that formalize the contract between event organizers and myself. This repository contains the LaTeX version of my standard speaker engagement agreement.
 
-## Attributional
+## Attribution
 
 This template is based on a freelance work agreement orginally created by [Brandon Fryslie](https://github.com/brandon-fryslie) and extensively modified by Vel.
 
