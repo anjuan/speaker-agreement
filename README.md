@@ -2,6 +2,10 @@
 
 I'm often asked how I structure the speaker agreements that formalize the contract between event organizers and myself. This repository contains the LaTeX version of my standard speaker engagement agreement.
 
+## Usage
+
+I've found that conferences usually provide their own speaker agreement if one is needed. This speaker agreement is best used for corporate events where you're working with an event organizer that wants to have you speak at their company or campus.
+
 ## Attribution
 
 This template is based on an agreement orginally created by [Brandon Fryslie](https://github.com/brandon-fryslie) and extensively modified by [Vel](http://www.vel.nz). I've kept a lot of the structure from Vel's LaTeX file, but I heavily modified the contents and added additonal variables.
