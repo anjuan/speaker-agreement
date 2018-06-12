@@ -27,3 +27,7 @@ If you're using MacOS, edit the structure.tex file and uncomment the font settin
 You'll need a LaTeX client to modify and use this template. There are several open source multi-platform client options available as either desktop or online applications. I currently use [MacTeX](http://www.tug.org/mactex/).
 
 If you use MacTeX, keep in mind that a number of other files will be created in your directory along with the rendered PDF file. You'll see files with the following extensions: .aux, .log, and .gz.
+
+## Disclaimer
+
+I am not a lawyer nor is this template a substitute for legal advice. Run any agreement you create by an attorney.
